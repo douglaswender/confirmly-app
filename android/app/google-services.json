@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005213628111",
+    "firebase_url": "https://confirmly-app.firebaseio.com",
+    "project_id": "confirmly-app",
+    "storage_bucket": "confirmly-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005213628111:android:f0ef32c0fb53237a",
+        "android_client_info": {
+          "package_name": "com.orbite.confirmly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005213628111-5ao34fu14c60mev9ee8u7frdvhs554et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuymvPMB62g1-1Vggg_h_fPW-iMkcI1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005213628111-5ao34fu14c60mev9ee8u7frdvhs554et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
